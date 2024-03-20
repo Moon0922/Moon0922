@@ -10,9 +10,7 @@ I am highly experienced in writing codes and algorithms and building neural netw
 # Skill Set
 
     🔹 Machine learning Libraries (Tensorflow, Keras, Caffe, YOLO...)
-    🔹 OCR & ALPR
-    🔹 Facial Detection & Recognition
-    🔹 NLP & Chatbot
+    🔹 OCR | ALPR | Facial Detection & Recognition | NLP & Chatbot
     🔹 Mastered in all devices(Raspberry pi,  Jetson nano, TX1, TX2...)
     🔹 Full-Stack development(Backend: Node.js, Python, C#, Java, PHP...
                               Frontend: React, Vue, Angular, Next, Electron ...
