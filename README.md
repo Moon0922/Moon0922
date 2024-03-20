@@ -11,8 +11,8 @@ I am highly experienced in writing codes and algorithms and building neural netw
 
     🔹 Machine learning Libraries (Tensorflow, Keras, Caffe, YOLO...)
     🔹 OCR | ALPR | Facial Detection & Recognition | NLP & Chatbot
-    🔹 Mastered in all devices(Raspberry pi,  Jetson nano, TX1, TX2...)
-    🔹 Full-Stack development(Backend: Node.js, Python, C#, Java, PHP...
+    🔹 Rich experience with all devices(Raspberry pi,  Jetson nano, TX1, TX2...)
+    🔹 Full stack development(Backend: Node.js, Python, C#, Java, PHP...
                               Frontend: React, Vue, Angular, Next, Electron ...
                               DB: PostgreSQL, MsSQL, MySql, Oracle, MongoDB...)
 
