@@ -1,20 +1,20 @@
 <h1 align="center" title="I'm happy to see you here">Welcome to @Moon0922</h1>
 
-# About Me
+# Summary
 
-I am an innovative AI & Full-Stack developer with 7+ years of experience in application & website design, development, testing, and deployment.
-
-I am highly experienced in writing codes and algorithms and building neural networks through various programming languages (Generally C, C++, C#, and Python).
+Seasoned AI and full-stack engineer with over 7 years of experience in application and website design, development, testing, and deployment. Proven skills in application development and system configuration. So frequently acknowledged for customer-friendly service.
 
 
-# Skill Set
+# Skills
 
-    🔹 Machine learning Libraries (Tensorflow, Keras, Caffe, YOLO...)
-    🔹 OCR | ALPR | Facial Detection & Recognition | NLP & Chatbot
-    🔹 Rich experience with all devices(Raspberry pi,  Jetson nano, TX1, TX2...)
-    🔹 Full stack development(Backend: Node.js, Python, C#, Java, PHP...
-                              Frontend: React, Vue, Angular, Next, Electron ...
-                              DB: PostgreSQL, MsSQL, MySql, Oracle, MongoDB...)
+    🔹 Machine Learning Libraries (Tensorflow, Keras, Caffe, YOLO...)
+    🔹 OCR & ALPR | Object Detection & Tracking | NLP & Chatbot
+    🔹 Full-stack (Backend: Express, Django, ASP.NET, Spring Boot, Laravel...
+                   Frontend: React, Vue, Angular, Next, Electron ...
+                   DB: PostgreSQL, MsSQL, MySql, MongoDB...)
+    🔹 Devices(Raspberry pi,  Jetson nano, TX1, TX2...)
+    🔹 Azure, AWS, Docker, Kubernetes, Terraform, Git, CI/CD
+    
 
 # Languages and Tools
 
@@ -210,12 +210,12 @@ I am highly experienced in writing codes and algorithms and building neural netw
       <br>GitHub  
     </td>
     <td align="center" width="80">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=stackoverflow" alt="icon" alt="Stackoverflow" />  
-      <br>Stack  
-    </td>
-    <td align="center" width="80">  
       <img  width="35" height="35" src="https://skillicons.dev/icons?i=docker" alt="icon" alt="Docker" />  
       <br>Docker  
+    </td>
+    <td align="center" width="80">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=azure" alt="icon" alt="Stackoverflow" />  
+      <br>Azure  
     </td>
     <td align="center" width="80">  
       <img  width="35" height="35" src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" alt="Nginx" />  
