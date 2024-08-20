@@ -2,7 +2,7 @@
 
 # Summary
 
-Seasoned AI and full-stack engineer with over 8 years of experience in application and website design, development, testing, and deployment. Proven skills in application development and system configuration. So frequently acknowledged for customer-friendly service.
+Seasoned AI and full-stack engineer with over 10 years of experience in application and website design, development, testing, and deployment. Proven skills in application development and system configuration. So frequently acknowledged for customer-friendly service.
 
 
 # Skills
